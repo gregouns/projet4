@@ -1,0 +1,54 @@
+body {
+	font-family: 'Crimson Text', serif;
+}
+.myarticle {
+	.image {
+		padding-left: 0px !important;
+		width:150px;
+	}
+	background-color:white;
+	width: 500px;
+	vertical-align: middle;
+	margin-left:0px !important;
+	.entry-summary {
+		background-color: #E6E9EB;
+		height:150px;
+		color:black;	
+		text-align: center;
+		vertical-align: middle;
+		width: 350px;
+	}
+}
+.entry-title {
+	width: 500px;
+	background-color: #252626;
+	padding-left:20px;
+	padding-right:20px;
+	a {
+		color:#33C2F2;
+	}
+}
+article {
+	color:white;
+	padding: 10px;
+	width: 500px;
+	text-align: center;
+	margin-left: auto;
+   	margin-right: auto;
+}
+.entry-content {
+	padding-left:20px;
+	padding-right:20px;
+}
+h1 {
+	color:white;
+}
+.main {
+	text-align: center;
+	width: 600px !important;
+}
+.author {
+	a {
+		color:white;
+	}
+}

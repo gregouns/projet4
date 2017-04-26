@@ -1,0 +1,22 @@
+footer {
+	background-color: #C6CACC;
+	margin-top: 50px;
+	padding: 10px 10px 10px 10px;
+	a {
+		color:#252626 !important;
+	}
+	a:hover {
+		color:#33C2F2;
+	}
+	h3 {
+		text-align: center;
+	}
+	section {
+		display: inline-block;
+		position: relative;
+		width: 25%;
+		padding-left: 15px;
+		padding-right: 15px;
+		vertical-align: top;
+	}
+}

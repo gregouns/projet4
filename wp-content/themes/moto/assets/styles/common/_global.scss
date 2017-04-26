@@ -29,20 +29,19 @@ body {
 }
 article {
 	color:white;
-	padding-left: 25px;
-	padding-right: 25px;
+	padding: 5px 25px 20px 25px;
 	width: 550px;
 	text-align: center;
-	margin-left: auto;
-   	margin-right: auto;
-   	background-color: #2F3030;
+	margin: 10px auto 10px auto;
+
+ 	background-color: #2F3030;
+ 	h1 {
+	color:#33C2F2;
+	}
 }
 .entry-content {
 	padding-left:20px;
 	padding-right:20px;
-}
-h1 {
-	color:#33C2F2;
 }
 .main {
 	text-align: center;
@@ -52,4 +51,7 @@ h1 {
 	a {
 		color:white;
 	}
+}
+h1 {
+	color: white;
 }

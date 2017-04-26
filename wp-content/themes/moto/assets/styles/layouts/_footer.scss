@@ -1,16 +1,9 @@
 footer {
 	background-color: #33C2F2;
-	margin-top: 50px;
+	margin-top: 30px;
 	padding: 10px 10px 10px 10px;
-	a {
-		color:#252626 !important;
-	}
-	a:hover {
-		color:#33C2F2;
-	}
-	h3 {
-		text-align: center;
-	}
+	text-align: center;
+	
 	section {
 		display: inline-block;
 		position: relative;
@@ -18,5 +11,16 @@ footer {
 		padding-left: 15px;
 		padding-right: 15px;
 		vertical-align: top;
+	}
+	ul {
+		list-style-type: none;
+		li {
+			a {
+				color:#252626 !important;
+			}
+			a:hover {
+				background-color:white;
+			}
+		}
 	}
 }
